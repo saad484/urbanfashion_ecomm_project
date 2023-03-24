@@ -1,0 +1,73 @@
+
+.container {
+  width: 1170px;
+  margin: 0 auto
+}
+
+
+.page-header__topline {
+  height: 45px;
+  background-color: #333;
+
+}
+
+.page-header__topline .currency {
+  float: left;
+  min-width: 120px
+}
+
+.page-header__topline .currency__change {
+  display: inline;
+  margin-right: 20px;
+  margin-left: 10px;
+  color: #777;
+  font-size: 13px;
+  line-height: 45px;
+  text-decoration: none;
+  -webkit-transition: color .3s;
+  transition: color .3s;
+ 
+}
+
+
+
+
+.page-header__topline .currency__change:hover {
+  color: #5e5e5e
+}
+
+
+.page-header__topline .login {
+  float: right;
+  min-width: 135px;
+  margin: 0;
+  padding: 0;
+  margin-right: 82px;
+  list-style: none;
+  font-size: 0
+}
+
+.page-header__topline .login__item {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 35px
+}
+
+.page-header__topline .login__item:last-child {
+  margin-right: 0
+}
+
+.page-header__topline .login__link {
+  display: block;
+  font-size: 13px;
+  color: #999;
+  line-height: 45px;
+  text-decoration: none;
+  -webkit-transition: color .3s;
+  transition: color .3s
+}
+
+.page-header__topline .login__link:hover {
+  color: gray
+}
+
