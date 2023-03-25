@@ -1,6 +1,6 @@
 # urbanfashion
-A clothing website project with a focus on user-friendly design and seamless functionality.
-Technologies: HTML, CSS, PHP, JavaScript, SQL
+The project is to create a clothing website that is designed to be user-friendly and intuitive to navigate, with seamless functionality.
+Technologies: HTML, CSS, PHP, JavaScript, and SQL.
 
 #Visit the website Live
 http://urbanfashion.42web.io/
